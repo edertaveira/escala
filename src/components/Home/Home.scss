@@ -1,0 +1,23 @@
+.search-input {
+  width: 254px;
+  input#search {
+    margin: 5px 0 5px 15px;
+  }
+}
+
+.ant-list-item {
+  h4 {
+    font: normal normal 600 19px/29px Poppins;
+    letter-spacing: 0px;
+    color: #060055;
+  }
+  span {
+    font: normal normal normal 14px/21px Poppins;
+    border-left: 1px solid #838080;
+    padding: 0 10px 0 10px;
+  }
+  span:first-child {
+    border-left: 0;
+    padding-left: 0;
+  }
+}
